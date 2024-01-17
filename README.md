@@ -1,28 +1,32 @@
 # 우리겨레 포트폴리오
->캐치 프레이즈 ( 나를 보여줄 수 있는 한마디 )
+>중요한 건 꺾여도 그냥하는 마음💗
 2
 </br>
 
 ## :pushpin: Intro
-(여기에 자기 소개)
+개발자가 되고싶은 
 
 </br>
 
 ## :pushpin: Contact
-- 이메일: wjdgud9420@gmail.com
+- 이메일: our0607@naver.com
 - 블로그: 
-- 깃헙: https://github.com/JungHyung2
+- 깃헙: https://github.com/WooRiGyeoRe
 
 </br>
 
 ## :pushpin: Projects
 ### 1. [포트폴리오](https://github.com/2023-SMHRD-KDT-IOT-4/Repo)
->나의 프론트엔드 포트폴리오 (개인 프로젝트)  
->개발 기간: 2023.10.01 ~ 2023.11.05  
+>나의 프론트엔드 포트폴리오 (팀 프로젝트)  
+>개발 기간: 2024.01.02 ~ 2024.01.15  
 >  
->기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
+>기술 스택  
+>사용 언어 : Java 8 / HTML5 / CSS3 / Java Script
+>개발 도구 : Spring / ARDUINO / VSCODE
+>서버 환경 : APACHE TOMCAT
+>데이터베이스 : ORACLE 11G
+>라이브러리 :   
+>/ MySQL / Spring Security / Jsoup / Vue.js / Element U  
 >  
 >[프로젝트 상세 설명](https://github.com/2021-SMHRD-KDT-AI-15/SNSRepo) 참고
 
