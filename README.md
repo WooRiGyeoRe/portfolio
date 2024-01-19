@@ -19,12 +19,17 @@
 >나의 첫 번째 프로젝트 포트폴리오 (팀 프로젝트)  
 >개발 기간: 2024.01.02 ~ 2024.01.15  
 >  
->기술 스택  
+>기술 스택⚙
 >사용 언어 : Java 8 / HTML5 / CSS3 / Java Script
+></br>
 >개발 도구 : Spring / ARDUINO / VSCODE
+</br>
 >서버 환경 : APACHE TOMCAT
+</br>
 >데이터베이스 : ORACLE 11G
+</br>
 >라이브러리 : KAKAO MAP API
+</br>
 >협업도구 : GITHUB    
 >  
 >[프로젝트 상세 설명](https://github.com/2021-SMHRD-KDT-AI-15/SNSRepo) 참고
