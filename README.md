@@ -15,8 +15,8 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [포트폴리오](https://github.com/2023-SMHRD-KDT-IOT-4/Repo)
->나의 첫 번째 프로젝트 포트폴리오 (팀 프로젝트)  
+### 1. [첫 번째 프로젝트](https://github.com/2023-SMHRD-KDT-IOT-4/Repo)
+>첫 번째 프로젝트 포트폴리오 (팀 프로젝트)  
 >개발 기간: 2024.01.02 ~ 2024.01.15  
 >  
 >기술 스택:  
