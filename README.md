@@ -24,7 +24,6 @@
 >ARDUINO / VSCODE / APACHE TOMCAT / ORACLE 11G  
 >KAKAO MAP API / GITHUB      
 >  
->[프로젝트 상세 설명](https://github.com/2021-SMHRD-KDT-AI-15/SNSRepo) 참고
 
 ---
 
