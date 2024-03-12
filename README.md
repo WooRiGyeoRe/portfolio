@@ -20,32 +20,32 @@
 >주제: IoT기반 자전거 도난방지 시스템  
 >개발 기간: 2024.01.02 ~ 2024.01.15  
 >  
->기술 스택:  
->Java 8 / HTML5 / CSS3 / Java Script / Spring  
->ARDUINO / VSCODE / APACHE TOMCAT / ORACLE 11G  
->KAKAO MAP API / GITHUB      
->  
+>기술 스택
+>사용 언어: Java HTML CSS JavaScript
+>라이브러리: KAKAO map API
+>개발 도구: Spring Arduino VScode
+>서버 환경: Apache Tomcat
+>데이터베이스: Oracle
+>협업 도구: GitHub  
 
 ---
 
-### 2. [두 번째 프로젝트](https://github.com/JungHyung2/gitio.io)
->두 번째 프로젝트 간략 소개  (팀 프로젝트)  
->개발 기간: 2020.7.18 ~ 2020.11.5  
+### 2. [두 번째 프로젝트](https://github.com/2023-SMHRD-KDT-IOT-4/renewen)
+>두 번째 프로젝트 간략 소개 (팀 프로젝트)
+>주제: AIoT, LSTM 모델을 활용한 태양광 발전량 예측
+>개발 기간: 2024.02.26 ~ 2024.03.12 
 >  
->기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
->  
->[프로젝트 상세 설명](https://github.com/JungHyung2/gitio.io) 참고
+>기술 스택  
+
 
 ---
 
-### 3. [세 번째 프로젝트](https://github.com/JungHyung2/gitio.io)
+### 3. [세 번째 프로젝트]( )
 >세 번째 프로젝트 간략 소개  (개인 프로젝트)  
->개발 기간: 2018.1.18 ~ 2018.4.5  
+>개발 기간:  
 >  
 >기술 스택:  
 >Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
 >H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
 >  
->[프로젝트 상세 설명](https://github.com/JungHyung2/gitio.io) 참고
+ 
