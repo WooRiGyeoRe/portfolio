@@ -21,12 +21,12 @@
 >개발 기간: 2024.01.02 ~ 2024.01.15  
 >  
 >기술 스택
-- 사용 언어: Java HTML CSS JavaScript
-- 라이브러리: KAKAO map API
-- 개발 도구: Spring Arduino VScode
-- 서버 환경: Apache Tomcat
-- 데이터베이스: Oracle
-- 협업 도구: GitHub
+>- 사용 언어: Java HTML CSS JavaScript
+>- 라이브러리: KAKAO map API
+>- 개발 도구: Spring Arduino VScode
+>- 서버 환경: Apache Tomcat
+>- 데이터베이스: Oracle
+>- 협업 도구: GitHub
 
 ---
 
