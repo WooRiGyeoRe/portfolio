@@ -8,7 +8,7 @@
 </br>
 
 ## :pushpin: Contact
-- 이메일: our0607@naver.com
+- 이메일: dnflrufp0607@gmail.com
 - 블로그: 
 - 깃헙: https://github.com/WooRiGyeoRe
 
